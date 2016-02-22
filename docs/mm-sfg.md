@@ -1,5 +1,6 @@
 # Bio Info
-### Mike
-### A Town
-### Tacos
-### Biking
+### name is Mike
+### from A Town
+### like Tacos
+### like Biking
+### fav color is Orange
